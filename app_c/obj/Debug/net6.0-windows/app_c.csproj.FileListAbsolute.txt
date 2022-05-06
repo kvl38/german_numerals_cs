@@ -1,0 +1,17 @@
+D:\projects_VSC\winforms\app_c\app_c\bin\Debug\net6.0-windows\app_c.exe
+D:\projects_VSC\winforms\app_c\app_c\bin\Debug\net6.0-windows\app_c.deps.json
+D:\projects_VSC\winforms\app_c\app_c\bin\Debug\net6.0-windows\app_c.runtimeconfig.json
+D:\projects_VSC\winforms\app_c\app_c\bin\Debug\net6.0-windows\app_c.dll
+D:\projects_VSC\winforms\app_c\app_c\bin\Debug\net6.0-windows\app_c.pdb
+D:\projects_VSC\winforms\app_c\app_c\obj\Debug\net6.0-windows\app_c.csproj.AssemblyReference.cache
+D:\projects_VSC\winforms\app_c\app_c\obj\Debug\net6.0-windows\app_c.csproj.GenerateResource.cache
+D:\projects_VSC\winforms\app_c\app_c\obj\Debug\net6.0-windows\app_c.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects_VSC\winforms\app_c\app_c\obj\Debug\net6.0-windows\app_c.AssemblyInfoInputs.cache
+D:\projects_VSC\winforms\app_c\app_c\obj\Debug\net6.0-windows\app_c.AssemblyInfo.cs
+D:\projects_VSC\winforms\app_c\app_c\obj\Debug\net6.0-windows\app_c.csproj.CoreCompileInputs.cache
+D:\projects_VSC\winforms\app_c\app_c\obj\Debug\net6.0-windows\app_c.dll
+D:\projects_VSC\winforms\app_c\app_c\obj\Debug\net6.0-windows\refint\app_c.dll
+D:\projects_VSC\winforms\app_c\app_c\obj\Debug\net6.0-windows\app_c.pdb
+D:\projects_VSC\winforms\app_c\app_c\obj\Debug\net6.0-windows\app_c.genruntimeconfig.cache
+D:\projects_VSC\winforms\app_c\app_c\obj\Debug\net6.0-windows\ref\app_c.dll
+D:\projects_VSC\winforms\app_c\app_c\obj\Debug\net6.0-windows\app_c.hw1.resources

@@ -1,6 +1,6 @@
 ﻿namespace app_c
 {
-    partial class Kovalev_hw1
+    partial class hw1
     {
         /// <summary>
         ///  Required designer variable.
@@ -107,7 +107,7 @@
             this.textBox3.Size = new System.Drawing.Size(419, 27);
             this.textBox3.TabIndex = 6;
             // 
-            // Kovalev_hw1
+            // hw1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -121,7 +121,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
-            this.Name = "Kovalev_hw1";
+            this.Name = "hw1";
             this.Text = "Kovalev_hw1";
             this.ResumeLayout(false);
             this.PerformLayout();

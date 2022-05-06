@@ -4,9 +4,9 @@ using System.Text.RegularExpressions;
 
 namespace app_c
 {
-    public partial class Kovalev_hw1 : Form
+    public partial class hw1 : Form
     {
-        public Kovalev_hw1()
+        public hw1()
         {
             InitializeComponent();
         }
